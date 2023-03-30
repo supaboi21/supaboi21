@@ -17,3 +17,5 @@
 :computer: C  
 :computer: C++  
 :computer: Python  
+# GOAL:
+![JuliusWouldHaveUnderstood](GitHub.png)
