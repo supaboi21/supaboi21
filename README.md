@@ -17,5 +17,6 @@
 :computer: C  
 :computer: C++  
 :computer: Python  
+:computer: (Learning) Rust
 # GOAL:
 ![JuliusWouldHaveUnderstood](GitHub.png)
